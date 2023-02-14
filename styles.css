@@ -57,7 +57,7 @@ h2 {
   height: 200px;
   width: 200px;
   position: relative;
-  left: 85px;
+  left: 85px;  
   top: 50px;
 }
 
@@ -176,7 +176,6 @@ h2 {
 
 .flag2 {
   background-color: blue;
-  /* TODO */
   margin: 0 0 0 5px;
 }
 /* For padding practice */
